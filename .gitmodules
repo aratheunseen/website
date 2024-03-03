@@ -22,6 +22,3 @@
 [submodule "specdude"]
 	path = specdude
 	url = https://github.com/aratheunseen/specdude.git
-[submodule "anovenus"]
-	path = anovenus
-	url = https://github.com/aratheunseen/anovenus-community-and-assets.git
