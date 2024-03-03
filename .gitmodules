@@ -25,3 +25,6 @@
 [submodule "anovenus"]
 	path = anovenus
 	url = https://github.com/aratheunseen/anovenus.git
+[submodule "mindspen"]
+	path = mindspen
+	url = https://github.com/aratheunseen/minds-pen-assets.git
