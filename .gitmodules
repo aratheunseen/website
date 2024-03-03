@@ -1,11 +1,11 @@
 [submodule "ahar-dashboard-website"]
-	path = ahar-dashboard/ahar-dashboard-website
+	path = ahar-dashboard
 	url = https://github.com/aratheunseen/ahar-dashboard-website.git
 [submodule "the-varendra-spark"]
 	path = the-varendra-spark
 	url = https://github.com/aratheunseen/the-varendra-spark.git
 [submodule "varendra-university-online-portal"]
-	path = vu-online-portal/varendra-university-online-portal
+	path = vu-online-portal
 	url = https://github.com/aratheunseen/varendra-university-online-portal.git
 [submodule "sunplux"]
 	path = sunplux
