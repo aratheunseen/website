@@ -1,0 +1,24 @@
+[submodule "ahar-dashboard-website"]
+	path = ahar-dashboard-website
+	url = https://github.com/aratheunseen/ahar-dashboard-website.git
+[submodule "the-varendra-spark"]
+	path = the-varendra-spark
+	url = https://github.com/aratheunseen/the-varendra-spark.git
+[submodule "varendra-university-online-portal"]
+	path = varendra-university-online-portal
+	url = https://github.com/aratheunseen/varendra-university-online-portal.git
+[submodule "sunplux-with-assets"]
+	path = sunplux-with-assets
+	url = https://github.com/aratheunseen/sunplux-with-assets.git
+[submodule "sunplux"]
+	path = sunplux
+	url = https://github.com/aratheunseen/sunplux-with-assets.git
+[submodule "pienteger"]
+	path = pienteger
+	url = https://github.com/aratheunseen/pienteger-with-assets.git
+[submodule "calibux"]
+	path = calibux
+	url = https://github.com/aratheunseen/calibux-with-assets.git
+[submodule "bornomala"]
+	path = bornomala
+	url = https://github.com/aratheunseen/bornomala-with-assets.git
