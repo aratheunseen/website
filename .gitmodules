@@ -31,3 +31,6 @@
 [submodule "lanflix"]
 	path = lanflix
 	url = https://github.com/aratheunseen/lanflix.git
+[submodule "youtube-booster"]
+	path = youtube-booster
+	url = https://github.com/aratheunseen/youtube-booster.git
