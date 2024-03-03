@@ -7,9 +7,6 @@
 [submodule "varendra-university-online-portal"]
 	path = varendra-university-online-portal
 	url = https://github.com/aratheunseen/varendra-university-online-portal.git
-[submodule "sunplux-with-assets"]
-	path = sunplux-with-assets
-	url = https://github.com/aratheunseen/sunplux-with-assets.git
 [submodule "sunplux"]
 	path = sunplux
 	url = https://github.com/aratheunseen/sunplux-with-assets.git
