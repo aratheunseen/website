@@ -28,3 +28,6 @@
 [submodule "mindspen"]
 	path = mindspen
 	url = https://github.com/aratheunseen/minds-pen-assets.git
+[submodule "lanflix"]
+	path = lanflix
+	url = https://github.com/aratheunseen/lanflix.git
