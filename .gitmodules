@@ -19,3 +19,6 @@
 [submodule "bornomala"]
 	path = bornomala
 	url = https://github.com/aratheunseen/bornomala-with-assets.git
+[submodule "specdude"]
+	path = specdude
+	url = https://github.com/aratheunseen/specdude.git
